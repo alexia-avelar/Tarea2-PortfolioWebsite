@@ -261,7 +261,6 @@ nav {
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-clip: inherit;
 }
 
 .main-message p {
